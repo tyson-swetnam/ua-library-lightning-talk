@@ -1,13 +1,13 @@
 ---?image=assets/imagery/merged.png&size=cover
-<span style="font-weight: bold; font-size: 150%; color:#FFFF00">Leveraging CyVerse for GIS on HPC and Cloud</span>
+<span style="font-weight: bold; font-size: 150%; color:#000000">Leveraging CyVerse for GIS on HPC and Cloud</span>
 
-+++
+---
 
 #### November 15, 2017
 #### Tyson Lee Swetnam
 #### CyVerse Science Informatician
 
-+++
+---
 
 ### Contact Info
 
@@ -29,11 +29,11 @@ To work with planetary scale data or high resolution spatial and multi-temporal 
 
 Okay, well now what?
 
-+++
+---
 
 ## GIS Data Scientist workbench
 
-+++
+---
 
 ### A data science workbench allows: 
 
@@ -41,16 +41,18 @@ Okay, well now what?
 - Select the tools you want to use
 - Write in a computational notebook  
   - Python, R, C++, Matlab, Spark, etc. 
-+++
+
+---
 
 ## Popular Data Science Software
 
-+++
+---
 
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
-<img src="http://mybinder.org/assets/images/logo.svg" height="150">
 
-+++
+<img src="https://mybinder.org/static/logo.svg" height="150">
+
+---
 
 <img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
 
