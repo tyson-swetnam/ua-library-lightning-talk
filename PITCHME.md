@@ -1,5 +1,5 @@
 ---?image=assets/imagery/merged.png&size=cover
-<span style="font-weight: bold; font-size: 150%; color:#000000">Leveraging CyVerse for GIS on HPC and Cloud</span>
+<span style="font-weight: bold; font-size: 150%">Leveraging CyVerse for GIS on HPC and Cloud</span>
 
 ---
 
