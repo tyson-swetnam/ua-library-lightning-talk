@@ -66,7 +66,7 @@ Okay, well now what?
 <img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="150"> 
 
 ## NSF [Jetstream](https://use.jetstream-cloud.org)
-<img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="250"> 
+<img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="150"> 
 
 ---
 
