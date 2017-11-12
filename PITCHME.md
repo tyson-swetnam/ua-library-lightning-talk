@@ -27,6 +27,14 @@ To work with planetary scale data or high resolution spatial and multi-temporal 
 
 +++
 
+Okay, well now what?
+
++++
+
+## GIS Data Scientist workbench
+
++++
+
 ### A data science workbench allows: 
 
 - Work in your preferred environment, languages, and libraries 
@@ -39,12 +47,12 @@ To work with planetary scale data or high resolution spatial and multi-temporal 
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
 <img src="http://mybinder.org/assets/images/logo.svg" height="150">
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+<img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
 
 ---
 
