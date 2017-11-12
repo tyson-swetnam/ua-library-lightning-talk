@@ -37,14 +37,18 @@ Okay, well now what?
 
 ### A data science workbench allows: 
 
-- Work in your preferred environment, languages, and libraries 
-- Select the tools you want to use
-- Write in a computational notebook  
+- Work in preferred environment, languages, and libraries 
+- Select tools you want to use
+- Write in a computational notebooks  
   - Python, R, C++, Matlab, Spark, etc. 
 
 ---
 
 ## Popular Data Science Software
+
+---
+
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="350">
 
 ---
 
@@ -58,10 +62,13 @@ Okay, well now what?
 
 ---
 
-## CyVerse's [Atmosphere](https://cyverse.org/atmosphere)
-![atmo](assets/imagery/Atmosphere_Blue.png)
+## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
+<img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="150"> 
 
-+++
+## NSF [Jetstream](https://use.jetstream-cloud.org)
+<img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="250"> 
+
+---
 
 ## On demand cloud computing for scientific research
 
@@ -79,8 +86,6 @@ Okay, well now what?
   - 16 CPU, 128GB RAM, 1400GB Disk
 - Attach (and swap) external storage volumes    
 - emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
-
-+++
 
 +++
 
