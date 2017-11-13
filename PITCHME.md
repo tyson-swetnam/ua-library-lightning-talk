@@ -1,4 +1,5 @@
----?image=assets/imagery/merged.png&size=cover
+---
+
 <span style="font-weight: bold; font-size: 150%">Leveraging CyVerse for GIS on HPC and Cloud</span>
 
 ---
@@ -19,11 +20,13 @@ twitter: tswetnam
 
 ---
 
-## Research-grade GIS has moved beyond your laptop or local desktop solution
+### GIS at scale beyond the laptop or local desktop solution
 
 +++
 
-To work with planetary scale data or high resolution spatial and multi-temporal data you must work on High Performance Computer and Cloud
+<img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
+<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
+<img src="assets/imagery/planet.png" height="250">
 
 +++
 
