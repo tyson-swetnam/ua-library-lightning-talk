@@ -69,7 +69,10 @@ Okay, well now what?
 
 ---
 
-<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png" height="350">
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png">
+</img>
+</span>
 
 ---
 
