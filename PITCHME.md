@@ -119,10 +119,6 @@ $ ezj -R -3
 
 +++
 
-<img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="500">
-
-+++
-
 @title[Docker RStudio]
 
 ## <span style="color: #e49436">Docker + RStudio</span>
