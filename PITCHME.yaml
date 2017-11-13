@@ -1,5 +1,4 @@
-# logo: assets/imagery/cyverse_icon_white_tm.png
-background: https://github.com/cyverse-gis/focus-forum/assets/imagery/DataEarth-About.jpg
+logo: https://github.com/cyverse-gis/focus-forum/blob/master/assets/imagery/cyverse_logo_150px.png
 background-size: cover
 highlight : monokai
 theme: sky
