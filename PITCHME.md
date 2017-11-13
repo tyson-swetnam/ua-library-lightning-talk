@@ -69,6 +69,24 @@ Okay, well now what?
 
 ---
 
+<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png" height="350">
+
+---
+
+<img src="http://amsantac.co/images/2016-06-29-reproducibility-arcpy-jupyter-notebook-r-fig-8.jpg" height="350">
+
+---
+
+<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="100">
+<img src="https://underdark.files.wordpress.com/2016/01/screenshot-2016-01-06-17-11-27.png" height="350">
+
+---
+
+<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="100">
+<img src="https://grass.osgeo.org/uploads/images/grass_gis721.png" height="350">
+
+---
+
 ## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
 <img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="150"> 
 
