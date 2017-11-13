@@ -34,7 +34,7 @@ Okay, well now what?
 
 ---
 
-## Build your own GIS Data Scientist workbench
+## Use CyVerse to build your own GIS Data Scientist workbench!
 
 ---
 
@@ -61,18 +61,7 @@ Okay, well now what?
 
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
 
-<img src="https://mybinder.org/static/logo.svg" height="150">
-
----
-
-<img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
-
----
-
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png">
-</img>
-</span>
+<img src="https://mybinder.org/static/logo.svg" height="150"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/1280px-Esri_logo.svg.png" height="150">
 
 ---
 
@@ -83,8 +72,13 @@ Okay, well now what?
 ---
 
 <span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png"></img>
+<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png">
+</img>
 </span>
+
+---
+
+<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png">
 
 ---
 
@@ -93,9 +87,8 @@ Okay, well now what?
 </span>
 
 ---
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png"></img>
-</span>
+
+<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="200">
 
 ---
 
@@ -105,34 +98,23 @@ Okay, well now what?
 
 ---
 
+<img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+
+---
+
 ## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
-<img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="150"> 
+<img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="100"> 
 
 ## NSF [Jetstream](https://use.jetstream-cloud.org)
 <img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="150"> 
 
----
-
-## On demand cloud computing for scientific research
-
 +++
 
 - Linux environment (Centos, Ubuntu)
-- Collaborate together online
-- Publically host custom images
-
-+++
-
-- Multiple instance sizes and 'flavors'
-  - 1 CPU, 4GB RAM, 30GB Disk
-  up to 
-  - 16 CPU, 128GB RAM, 1400GB Disk
-- Attach (and swap) external storage volumes    
+- 1 CPU  to 16 CPU 
+- 4 GB to 128GB RAM 
+- Attach (and swap) TB size storage volumes    
 - emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
-
----
-
-## Setting up Atmosphere instances as Data Science Workbenches
 
 ---
 
