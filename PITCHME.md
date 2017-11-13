@@ -94,7 +94,12 @@ Okay, well now what?
 
 ---
 <span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png">
+<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png"></img>
+</span>
+
+---
+
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
 <img src="https://grass.osgeo.org/uploads/images/grass_gis721.png"></img>
 </span>
 
