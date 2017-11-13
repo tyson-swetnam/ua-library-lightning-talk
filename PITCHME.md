@@ -23,8 +23,10 @@ twitter: tswetnam
 +++
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
-<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 <img src="assets/imagery/planet.png" height="250">
+<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
+<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
+
 
 +++
 
