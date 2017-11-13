@@ -76,17 +76,27 @@ Okay, well now what?
 
 ---
 
-<img src="http://amsantac.co/images/2016-06-29-reproducibility-arcpy-jupyter-notebook-r-fig-8.jpg" height="350">
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="http://amsantac.co/images/2016-06-29-reproducibility-arcpy-jupyter-notebook-r-fig-8.jpg"></img>
+</span>
 
 ---
 
-<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="100">
-<img src="https://underdark.files.wordpress.com/2016/01/screenshot-2016-01-06-17-11-27.png" height="350">
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png"></img>
+</span>
 
 ---
 
-<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="100">
-<img src="https://grass.osgeo.org/uploads/images/grass_gis721.png" height="350">
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="https://underdark.files.wordpress.com/2016/01/screenshot-2016-01-06-17-11-27.png"></img>
+</span>
+
+---
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png">
+<img src="https://grass.osgeo.org/uploads/images/grass_gis721.png"></img>
+</span>
 
 ---
 
