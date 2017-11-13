@@ -20,7 +20,7 @@ twitter: tswetnam
 
 ---
 
-### GIS at scale beyond the laptop or local desktop solution
+### GIS is being done at scale beyond the laptop or local desktop solution
 
 +++
 
@@ -34,24 +34,28 @@ Okay, well now what?
 
 ---
 
-## GIS Data Scientist workbench
+## Build your own GIS Data Scientist workbench
 
 ---
 
 ### A data science workbench allows: 
 
-- Work in preferred environment, languages, and libraries 
+- Work in preferred environment, language, and libraries 
 - Select tools you want to use
 - Write in a computational notebooks  
   - Python, R, C++, Matlab, Spark, etc. 
 
 ---
 
-## Popular Data Science Software
+## Data Science Software
 
 ---
 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="350">
+
+---
+
+<img src="http://singularity.lbl.gov/images/logo/logo.svg" height="350">
 
 ---
 
@@ -93,14 +97,6 @@ Okay, well now what?
 +++
 
 ## Setting up Atmosphere instances as Data Science Workbenches
-
-+++
-
-- Create a new instance in Atmosphere / Jetstream
-
-- If you are planning to "image" the instance, select the smallest functional size.
-
-  - Install new software into `/opt` `/srv`
 
 +++
 
