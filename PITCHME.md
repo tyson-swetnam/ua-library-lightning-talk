@@ -18,9 +18,9 @@ twitter: tswetnam
 
 ---
 
-### GIS is being done at scale beyond the laptop or local desktop solution
+### Research at scale beyond the laptop or local desktop solution
 
-+++
+---
 
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
 <img src="assets/imagery/planet.png" height="250">
@@ -28,7 +28,7 @@ twitter: tswetnam
 <img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
 
-+++
+---
 
 Okay, well now what?
 
@@ -94,11 +94,11 @@ Okay, well now what?
 - Attach (and swap) external storage volumes    
 - emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
 
-+++
+---
 
 ## Setting up Atmosphere instances as Data Science Workbenches
 
-+++
+---
 
 @title[EZ Install]
 
@@ -117,7 +117,7 @@ $ ezj -R -3
 @[3](Install latest version of Singularity)
 @[4](Install Anaconda and Jupyter Notebooks w/ Python3 and the R Kernel)
 
-+++
+---
 
 @title[Docker RStudio]
 
@@ -142,9 +142,7 @@ Done!
 @[5](Run the Container in detached mode `-d` on port `-p 8787:8787`)
 @[7](Open the Instance's IP address w/ port number in a new browser window)
 
-+++
-
-+++
+---
 
 @title[QGIS-GRASS-RStudio native build]
 
@@ -167,5 +165,3 @@ $ . install_rstudio.sh
 @[5](Install RStudio)
 @[6](Open the Instance's IP address w/ port number in a new browser window)
 @[7](Launch Web Desktop with Apache Guacamole)
-
-+++
