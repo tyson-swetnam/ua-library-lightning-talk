@@ -1,12 +1,10 @@
 ---
 
-<span style="font-weight: bold; font-size: 150%">Leveraging CyVerse for GIS on HPC and Cloud</span>
+<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Leveraging CyVerse for GIS on HPC and Cloud</span>
 
----
-
-#### November 15, 2017
-#### Tyson Lee Swetnam
-#### CyVerse Science Informatician
+###### November 15, 2017
+###### Tyson Lee Swetnam
+###### CyVerse Science Informatician
 
 ---
 
