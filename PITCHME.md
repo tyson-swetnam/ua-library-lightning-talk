@@ -78,6 +78,10 @@ Okay, well now what?
 
 ---
 
+<img src="https://boundlessgeo.com/wp-content/themes/boundlessgeo/assets/images/BoundlessLogoTag.svg" height="250">
+
+---
+
 <img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
 
 ---
