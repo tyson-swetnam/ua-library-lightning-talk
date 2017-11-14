@@ -120,9 +120,9 @@ Okay, well now what?
 
 @title[EZ Install]
 
-[http://learning.cyverse.org/](http://learning.cyverse.org/)
 
 ## <span style="color: #e49436">EZ Install</span>
+[http://learning.cyverse.org/](http://learning.cyverse.org/)
 <br>
 
 ```shell
