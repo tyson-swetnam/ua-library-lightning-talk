@@ -25,7 +25,7 @@ twitter: tswetnam
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
 <img src="assets/imagery/planet.png" height="250">
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
-<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
+ <img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
 
 ---
@@ -34,7 +34,7 @@ Okay, well now what?
 
 ---
 
-## Use CyVerse to build your own GIS Data Scientist workbench!
+<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Use CyVerse to build your own GIS Data Scientist workbench!</span>
 
 ---
 
@@ -78,7 +78,7 @@ Okay, well now what?
 
 ---
 
-<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png">
+<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
 
 ---
 
@@ -119,6 +119,8 @@ Okay, well now what?
 ---
 
 @title[EZ Install]
+
+[http://learning.cyverse.org/](http://learning.cyverse.org/)
 
 ## <span style="color: #e49436">EZ Install</span>
 <br>
