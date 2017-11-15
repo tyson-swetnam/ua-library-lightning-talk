@@ -90,7 +90,8 @@ Moving my preferred software stack to the cloud or HPC...
 
 ---
 
-But I don't have any money to buy time on AWS.
+I don't have money to buy time on AWS...
+<img src="assets/imagery/aws.png" height="400">
 
 ---
 
