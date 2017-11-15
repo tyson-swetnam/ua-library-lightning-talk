@@ -4,13 +4,15 @@
 
 ###### November 15, 2017
 ###### Tyson Lee Swetnam
-###### CyVerse Science Informatician
+###### Science Informatician
 
 ---
 
-### Contact Info
+### Contact
 
-tswetnam@cyverse.org
+[http://www.cyverse.org/](http://www.cyverse.org/)
+
+email: tswetnam@cyverse.org
 
 github: tyson-swetnam
 
@@ -190,7 +192,7 @@ $ . install_rstudio.sh
 
 ---
 
-<span vertical-align:middle;">
+<span style="vertical-align:middle">
 <img src="assets/imagery/cyverse.png"></img>
 </span>
 
