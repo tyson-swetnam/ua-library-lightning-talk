@@ -190,7 +190,7 @@ $ . install_rstudio.sh
 
 ---
 
-<span style="padding-bottom:3px; padding-right:3px; padding-top: 3px; display:inline-block;">
+<span style="display:inline-block;">
 <img src="assets/imagery/cyverse.png"></img>
 </span>
 
