@@ -20,7 +20,7 @@ twitter: tswetnam
 
 ---
 
-### Research at scale beyond the laptop or local desktop solution
+### GIS beyond my laptop or desktop 
 
 ---
 
@@ -29,27 +29,31 @@ twitter: tswetnam
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
 <img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
+---
+
+## Well, that's pretty cool, but...
 
 ---
 
-Okay, well now what?
+## How can I use these data / platforms for my research?
 
 ---
 
-<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Use CyVerse to build your own GIS Data Scientist workbench!</span>
+<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Build my own GIS Data Scientist workbench!</span>
 
 ---
 
-### A data science workbench allows: 
+### A Data Science Workbench allows me to: 
 
-- Work in preferred environment, language, and libraries 
-- Select tools you want to use
-- Write in a computational notebooks  
-  - Python, R, C++, Matlab, Spark, etc. 
+- Send my algorithms to the data and the compute <!-- .element: class="fragment" -->
+- Work in my preferred environment, language, and libraries <!-- .element: class="fragment" -->
+- Select the tools I want to use <!-- .element: class="fragment" -->
+- Write in computational notebooks <!-- .element: class="fragment" -->
+  - Python, R, C++, Matlab, Spark, etc. <!-- .element: class="fragment" -->
 
 ---
 
-## Data Science Software
+## Moving my preferred software stack to the cloud or HPC
 
 ---
 
@@ -61,46 +65,21 @@ Okay, well now what?
 
 ---
 
+## Why Containerize?
+
+- Dependencies can be wicked problems <!-- .element: class="fragment" -->
+- Compiling software is slow <!-- .element: class="fragment" -->
+- Reproducability is hard <!-- .element: class="fragment" -->
+- Portability <!-- .element: class="fragment" -->
+
+---
+
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
-
-<img src="https://mybinder.org/static/logo.svg" height="150"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/1280px-Esri_logo.svg.png" height="150">
-
----
-
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="http://amsantac.co/images/2016-06-29-reproducibility-arcpy-jupyter-notebook-r-fig-8.jpg"></img>
-</span>
-
----
-
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="http://esri.github.io/arcgis-python-api/notebooks/nbimages/landing_arcgis_python_api_in_5_mins_thumbnail.png">
-</img>
-</span>
-
----
-
-<img src="https://boundlessgeo.com/wp-content/themes/boundlessgeo/assets/images/BoundlessLogoTag.svg" height="250">
 
 ---
 
 <img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
-
----
-
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="https://underdark.files.wordpress.com/2016/01/screenshot-2016-01-06-17-11-27.png"></img>
-</span>
-
----
-
 <img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="200">
-
----
-
-<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
-<img src="https://grass.osgeo.org/uploads/images/grass_gis721.png"></img>
-</span>
 
 ---
 
@@ -122,7 +101,9 @@ Okay, well now what?
 
 ---
 
+## Building the best image and instance for my GIS research has taken time
 
+<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
 ---
 
