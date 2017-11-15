@@ -101,7 +101,7 @@ twitter: tswetnam
 
 ---
 
-## Building the best image and instance for my GIS research has taken time
+Being awesome with cloud and HPC doesn't just happen
 
 <img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
