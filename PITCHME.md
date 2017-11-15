@@ -57,7 +57,7 @@ Build my own GIS Data Scientist workbench!
 
 ---
 
-## Moving my preferred software stack to the cloud or HPC
+Moving my preferred software stack to the cloud or HPC
 
 ---
 
@@ -74,7 +74,6 @@ Build my own GIS Data Scientist workbench!
 - Dependencies can be wicked problems <!-- .element: class="fragment" -->
 - Compiling software is slow <!-- .element: class="fragment" -->
 - Reproducability is hard <!-- .element: class="fragment" -->
-- Portability <!-- .element: class="fragment" -->
 
 ---
 
@@ -92,8 +91,6 @@ Build my own GIS Data Scientist workbench!
 ---
 
 ## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
-## NSF [Jetstream](https://use.jetstream-cloud.org)
-<img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="150"> 
 
 +++
 
@@ -111,30 +108,10 @@ Being awesome with cloud and HPC doesn't just happen
 
 ---
 
-@title[EZ Install]
-
-
-## <span style="color: #e49436">EZ Install</span>
-[http://learning.cyverse.org/](http://learning.cyverse.org/)
-<br>
-
-```shell
-$ ez
-$ ezd
-$ ezs
-$ ezj -R -3
-```
-
-@[1](View option menu for `ez`)
-@[2](Install latest version of Docker)
-@[3](Install latest version of Singularity)
-@[4](Install Anaconda and Jupyter Notebooks w/ Python3 and the R Kernel)
-
----
-
 @title[Docker RStudio]
 
 ## <span style="color: #e49436">Docker + RStudio</span>
+[http://learning.cyverse.org/](http://learning.cyverse.org/)
 <br>
 
 ```shell
