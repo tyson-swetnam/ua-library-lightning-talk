@@ -51,10 +51,8 @@ Build my own GIS Data Scientist workbench!
 
 ### A Data Science Workbench allows me to: 
 
-- Send my algorithms to the data and the compute <!-- .element: class="fragment" -->
+- Send my algorithms to the data and compute <!-- .element: class="fragment" -->
 - Work in my preferred environment, language, and libraries <!-- .element: class="fragment" -->
-- Select the tools I want to use <!-- .element: class="fragment" -->
-- Write in computational notebooks <!-- .element: class="fragment" -->
   - Python, R, C++, Matlab, Spark, etc. <!-- .element: class="fragment" -->
 
 ---
