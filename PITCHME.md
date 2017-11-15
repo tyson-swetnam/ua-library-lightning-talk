@@ -25,7 +25,7 @@ twitter: tswetnam
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
 <img src="assets/imagery/planet.png" height="250">
 <img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
- <img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
+<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
 
 ---
@@ -107,18 +107,16 @@ Okay, well now what?
 ---
 
 ## CyVerse [Atmosphere](https://cyverse.org/atmosphere)
-<img src="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/_images/atmosphere-icon.png" height="100"> 
-
 ## NSF [Jetstream](https://use.jetstream-cloud.org)
 <img src="http://www.cyverse.org/sites/default/files/Jetstream_logo_hi_res_cropped.jpg" height="150"> 
 
 +++
 
-- Linux environment (Centos, Ubuntu)
+- Linux (Centos, Ubuntu)
 - 1 CPU  to 16 CPU 
 - 4 GB to 128GB RAM 
-- Attach (and swap) TB size storage volumes    
-- emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
+- Attach (swap) TB size storage volumes    
+- emulated web shell and desktop 
 
 ---
 
@@ -189,3 +187,12 @@ $ . install_rstudio.sh
 @[5](Install RStudio)
 @[6](Open the Instance's IP address w/ port number in a new browser window)
 @[7](Launch Web Desktop with Apache Guacamole)
+
+---
+
+<span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+<img src="assets/imagery/cyverse.png"></img>
+</span>
+---
+
+
