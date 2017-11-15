@@ -49,6 +49,19 @@ Build my own GIS Data Scientist workbench!
 
 ---
 
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+
+---
+
+<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
+<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="200">
+
+---
+
+<img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+
+---
+
 ### A Data Science Workbench allows me to: 
 
 - Send my algorithms to the data and compute <!-- .element: class="fragment" -->
@@ -57,7 +70,7 @@ Build my own GIS Data Scientist workbench!
 
 ---
 
-Moving my preferred software stack to the cloud or HPC
+Moving my preferred software stack to the cloud or HPC...
 
 ---
 
@@ -77,16 +90,7 @@ Moving my preferred software stack to the cloud or HPC
 
 ---
 
-<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
-
----
-
-<img src="https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png" height="200">
-<img src="https://grass.osgeo.org/uploads/images/logo_variant_nobg.png" height="200">
-
----
-
-<img src="https://www.r-project.org/logo/Rlogo.svg" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+But I don't have any money to buy time on AWS.
 
 ---
 
