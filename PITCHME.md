@@ -25,11 +25,13 @@ twitter: tswetnam
 ---
 
 Online GIS engines 
+
 <img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
 ---
 
 Massive amounts of data are online
+
 <img src="assets/imagery/planet.png" height="250"><img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
 
 
