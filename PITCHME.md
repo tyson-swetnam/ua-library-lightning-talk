@@ -192,9 +192,7 @@ $ . install_rstudio.sh
 
 ---
 
-<span style="vertical-align:middle">
-<img src="assets/imagery/cyverse.png"></img>
-</span>
+<img src="assets/imagery/cyverse.png">
 
 ---
 
