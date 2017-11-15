@@ -24,22 +24,26 @@ twitter: tswetnam
 
 ---
 
-<img src="https://developers.google.com/earth-engine/images/Playground.png" height="250">
-<img src="assets/imagery/planet.png" height="250">
-<img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250">
-<img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
+Online GIS engines 
+<img src="https://developers.google.com/earth-engine/images/Playground.png" height="250"><img src="https://pbs.twimg.com/media/C6U9LTQVAAE_j0b.png" height="250">
 
 ---
 
-## Well, that's pretty cool, but...
+Massive amounts of data are online
+<img src="assets/imagery/planet.png" height="250"><img src="https://pbs.twimg.com/media/DN5ZyIbVwAA7BLB.png" height="250"><img src="http://www.opentopography.org/sites/opentopography.org/files/images/news_items/UNAMcourse_thumb.jpg" height="250">
+
 
 ---
 
-## How can I use these data / platforms for my research?
+Well, that's cool, but...
 
 ---
 
-<span style="font: fsmall-caps bold 24px/1 sans-serif; font-size: 150%">Build my own GIS Data Scientist workbench!</span>
+How can I use these platforms and data for my research?
+
+---
+
+Build my own GIS Data Scientist workbench!
 
 ---
 
